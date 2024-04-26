@@ -249,8 +249,8 @@
     , "unfoldable"
     , "unsafe-coerce"
     ]
-  , repo = "https://github.com/purescript/purescript-arrays.git"
-  , version = "v7.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-arrays.git"
+  , version = "concat-array-v7.0.0"
   }
 , arrays-zipper =
   { dependencies = [ "arrays", "control", "quickcheck" ]
@@ -479,8 +479,8 @@
   }
 , control =
   { dependencies = [ "newtype", "prelude" ]
-  , repo = "https://github.com/purescript/purescript-control.git"
-  , version = "v6.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-control.git"
+  , version = "concat-array-v6.0.0"
   }
 , convertable-options =
   { dependencies = [ "console", "effect", "maybe", "record" ]
@@ -865,8 +865,8 @@
     , "lists"
     , "ordered-collections"
     ]
-  , repo = "https://github.com/purescript/purescript-filterable.git"
-  , version = "v5.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-filterable.git"
+  , version = "concat-array-v5.0.0"
   }
 , fixed-points =
   { dependencies = [ "exists", "newtype", "prelude", "transformers" ]
@@ -942,8 +942,8 @@
     , "prelude"
     , "tuples"
     ]
-  , repo = "https://github.com/purescript/purescript-foldable-traversable.git"
-  , version = "v6.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-foldable-traversable.git"
+  , version = "concat-array-v6.0.0"
   }
 , foreign =
   { dependencies =
@@ -1516,8 +1516,8 @@
     , "web-html"
     , "web-uievents"
     ]
-  , repo = "https://github.com/mikesol/purescript-hyrule.git"
-  , version = "v2.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~avinash.verma_juspay.in/purescript-hyrule.git"
+  , version = "concat-array-v2.0.0"
   }
 , identity =
   { dependencies = [ "control", "invariant", "newtype", "prelude" ]
@@ -2080,9 +2080,9 @@
     , "tuples"
     , "unfoldable"
     ]
-  , repo = "https://github.com/purescript/purescript-nonempty.git"
-  , version = "v7.0.0"
-  }
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-nonempty.git"
+  , version = "concat-array-v7.0.0"
+  } 
 , now =
   { dependencies = [ "datetime", "effect" ]
   , repo = "https://github.com/purescript-contrib/purescript-now.git"
@@ -2486,8 +2486,8 @@
   }
 , prelude =
   { dependencies = [] : List Text
-  , repo = "https://github.com/purescript/purescript-prelude.git"
-  , version = "v6.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-prelude.git"
+  , version = "concat-array-v6.0.0"
   }
 , prettier-printer =
   { dependencies = [ "prelude", "console", "lists", "tuples", "strings" ]
@@ -2731,8 +2731,8 @@
   }
 , react-basic =
   { dependencies = [ "prelude", "effect", "record" ]
-  , repo = "https://github.com/lumihq/purescript-react-basic.git"
-  , version = "v17.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~avinash.verma_juspay.in/purescript-react-basic.git"
+  , version = "concat-array-v17.0.0"
   }
 , react-basic-dom =
   { dependencies =
