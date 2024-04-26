@@ -2311,8 +2311,8 @@
     , "refs"
     , "transformers"
     ]
-  , repo = "https://github.com/purescript/purescript-parallel.git"
-  , version = "v6.0.0"
+  , repo = "ssh://git@ssh.bitbucket.juspay.net/~govind.rathi_juspay.in/purescript-parallel.git"
+  , version = "concat-array-v6.0.0"
   }
 , parsing =
   { dependencies =
